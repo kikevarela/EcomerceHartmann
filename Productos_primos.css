@@ -108,7 +108,7 @@ background: rgba(11, 2, 137, 0.938);
 .Productos
 {
     width: 360px;
-    height: 1350px;
+    height: 1550px;
     background: whitesmoke;
     display: block;
     margin-left: -8px;
@@ -493,7 +493,7 @@ background: rgba(11, 2, 137, 0.938);
 {
     width: 360px;
     height: 1350px;
-    background: whitesmoke;
+    background: white;
     display: block;
     margin-left: -8px;
 }
@@ -877,7 +877,7 @@ background: rgba(11, 2, 137, 0.938);
 {
     width: 375px;
     height: 1350px;
-    background: whitesmoke;
+    background: white;
     display: block;
     margin-left: -8px;
 }
@@ -1261,7 +1261,7 @@ background: rgba(11, 2, 137, 0.938);
 {
     width: 412px;
     height: 1350px;
-    background: whitesmoke;
+    background: white;
     display: block;
     margin-left: -8px;
 }
@@ -1544,7 +1544,7 @@ background: rgba(11, 2, 137, 0.938);
 }
 
 }
-@media (min-width:576px)
+@media (min-width:578px)
 {
     .header .contenedor
     {
@@ -1608,7 +1608,7 @@ background: rgba(11, 2, 137, 0.938);
 {
     position: relative;
     z-index: -1000;
-    width: 576px;
+    width: 578px;
     height: 250px;
     margin-top: 10px;
     margin-left: -8px;
@@ -1646,7 +1646,7 @@ background: rgba(11, 2, 137, 0.938);
 {
     width: 570px;
     height: 1250px;
-    background: whitesmoke;
+    background: white;
     display: block;
     margin-left: -8px;
 }
